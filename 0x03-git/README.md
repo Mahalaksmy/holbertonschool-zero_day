@@ -1,1 +1,1 @@
-Hello World!
+“Starting to code today, so cool”
